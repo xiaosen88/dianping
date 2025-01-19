@@ -8,4 +8,5 @@ public class LoginFormDTO {
     private String code;
     private String password;
     //private String address
+    //private int age;
 }
